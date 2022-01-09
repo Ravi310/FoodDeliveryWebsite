@@ -1,0 +1,67 @@
+/* body{
+    background-color: red;
+} */
+#navbar{
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}#navbar::before{
+    height: 81%;
+}
+#navbar #logo img{
+    width: 55px;
+}
+#navbar ul{
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: -13px;
+}
+/* #navbar ul li{
+    padding: 10px 5px;
+} */
+#navbar ul li a{
+    font-size: 0.9rem;
+}
+#home{
+    height: 300px;
+}
+hr {
+    width: 70%;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 0.8rem;
+}  
+#services h1{
+    padding-top: 23px;
+}
+#card-container{
+    flex-wrap: wrap;
+}
+.cards{
+    width: 254px;
+    padding: 5px 22px;
+    margin: 7px;
+}
+.cards img{
+    width: 100px;
+    text-align: center;
+    margin-left: -15px;
+}
+/* .cards{
+    margin: 15px 5px;
+} */
+.apps{
+    flex-wrap: wrap;
+}
+.apps img{
+    width: 80px;
+}
+#contact-box form{
+    width: 60%;
+}
+h1{
+    font-size: 1.8rem;
+}
