@@ -6,7 +6,8 @@
     justify-content: center;
     text-align: center;
     
-}#navbar::before{
+}
+#navbar::before{
     height: 81%;
 }
 #navbar #logo img{
